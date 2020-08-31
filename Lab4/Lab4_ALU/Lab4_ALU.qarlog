@@ -1,0 +1,16 @@
+Quartus Prime Archive log --	D:/Quartus/Lab4_ALU/Lab4_ALU.qarlog
+
+Archive:	D:/Quartus/Lab4_ALU/Lab4_ALU.qar
+Date:		Tue Oct 22 07:29:33 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Quartus/Lab4_ALU/Lab4_ALU.bdf
+D:/Quartus/Lab4_ALU/Lab4_ALU.qpf
+D:/Quartus/Lab4_ALU/Lab4_ALU.qsf
+D:/Quartus/Lab4_ALU/Waveform.vwf
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

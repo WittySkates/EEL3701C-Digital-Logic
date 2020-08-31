@@ -1,0 +1,127 @@
+|Lab4_ALU
+COUT <= inst14.DB_MAX_OUTPUT_PORT_TYPE
+CIN => 74283:inst4.CIN
+A[0] => 74283:inst4.A1
+A[0] => inst3[0].IN0
+A[0] => inst[0].IN0
+A[0] => inst2[0].IN1
+A[1] => 74283:inst4.A2
+A[1] => inst3[1].IN0
+A[1] => inst[1].IN0
+A[1] => inst2[1].IN1
+A[2] => 74283:inst4.A3
+A[2] => inst3[2].IN0
+A[2] => inst[2].IN0
+A[2] => inst2[2].IN1
+A[3] => 74283:inst4.A4
+A[3] => inst3[3].IN0
+A[3] => inst[3].IN0
+A[3] => inst2[3].IN1
+B[0] => 74283:inst4.B1
+B[0] => inst3[0].IN1
+B[0] => inst2[0].IN0
+B[1] => 74283:inst4.B2
+B[1] => inst3[1].IN1
+B[1] => inst2[1].IN0
+B[2] => 74283:inst4.B3
+B[2] => inst3[2].IN1
+B[2] => inst2[2].IN0
+B[3] => 74283:inst4.B4
+B[3] => inst3[3].IN1
+B[3] => inst2[3].IN0
+S[0] => inst14.IN2
+S[0] => 74153:inst6.A
+S[0] => 74153:inst5.A
+S[1] => inst14.IN1
+S[1] => 74153:inst6.B
+S[1] => 74153:inst5.B
+F[0] <= 74153:inst6.2Y
+F[1] <= 74153:inst6.1Y
+F[2] <= 74153:inst5.2Y
+F[3] <= 74153:inst5.1Y
+
+
+|Lab4_ALU|74283:inst4
+a[1] => f74283:sub.a[1]
+a[2] => f74283:sub.a[2]
+a[3] => f74283:sub.a[3]
+a[4] => f74283:sub.a[4]
+b[1] => f74283:sub.b[1]
+b[2] => f74283:sub.b[2]
+b[3] => f74283:sub.b[3]
+b[4] => f74283:sub.b[4]
+cin => f74283:sub.cin
+cout <= f74283:sub.cout
+sum[1] <= f74283:sub.sum[1]
+sum[2] <= f74283:sub.sum[2]
+sum[3] <= f74283:sub.sum[3]
+sum[4] <= f74283:sub.sum[4]
+
+
+|Lab4_ALU|74283:inst4|f74283:sub
+SUM1 <= 76.DB_MAX_OUTPUT_PORT_TYPE
+CIN => 108.DATAIN
+A1 => 77.IN1
+A1 => 92.IN1
+A1 => 93.IN1
+B1 => 76.IN1
+B1 => 93.IN0
+B1 => 94.IN1
+COUT <= 91.DB_MAX_OUTPUT_PORT_TYPE
+A2 => 95.IN1
+A2 => 97.IN1
+A2 => 79.IN1
+B2 => 97.IN0
+B2 => 96.IN1
+B2 => 78.IN1
+A3 => 98.IN1
+A3 => 100.IN1
+A3 => 81.IN1
+B3 => 100.IN0
+B3 => 99.IN1
+B3 => 80.IN1
+A4 => 101.IN1
+A4 => 103.IN1
+A4 => 83.IN1
+B4 => 103.IN0
+B4 => 102.IN1
+B4 => 82.IN1
+SUM4 <= 82.DB_MAX_OUTPUT_PORT_TYPE
+SUM3 <= 80.DB_MAX_OUTPUT_PORT_TYPE
+SUM2 <= 78.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab4_ALU|74153:inst6
+1Y <= 9.DB_MAX_OUTPUT_PORT_TYPE
+1GN => 26.IN0
+B => 27.IN0
+A => 29.IN0
+1C0 => 1.IN3
+1C1 => 2.IN3
+1C2 => 3.IN3
+1C3 => 4.IN3
+2Y <= 10.DB_MAX_OUTPUT_PORT_TYPE
+2C0 => 5.IN0
+2GN => 25.IN0
+2C1 => 6.IN0
+2C2 => 7.IN0
+2C3 => 8.IN0
+
+
+|Lab4_ALU|74153:inst5
+1Y <= 9.DB_MAX_OUTPUT_PORT_TYPE
+1GN => 26.IN0
+B => 27.IN0
+A => 29.IN0
+1C0 => 1.IN3
+1C1 => 2.IN3
+1C2 => 3.IN3
+1C3 => 4.IN3
+2Y <= 10.DB_MAX_OUTPUT_PORT_TYPE
+2C0 => 5.IN0
+2GN => 25.IN0
+2C1 => 6.IN0
+2C2 => 7.IN0
+2C3 => 8.IN0
+
+

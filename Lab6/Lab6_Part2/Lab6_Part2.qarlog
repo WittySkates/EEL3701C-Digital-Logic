@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/Users/conno/Desktop/Lab6_Part2/Lab6_Part2.qarlog
+
+Archive:	C:/Users/conno/Desktop/Lab6_Part2/Lab6_Part2.qar
+Date:		Tue Nov 05 12:15:56 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/conno/Desktop/Lab6_Part2/Lab6_Part2.bdf
+C:/Users/conno/Desktop/Lab6_Part2/Lab6_Part2.qpf
+C:/Users/conno/Desktop/Lab6_Part2/Lab6_Part2.qsf
+C:/Users/conno/Desktop/Lab6_Part2/ROM.bsf
+C:/Users/conno/Desktop/Lab6_Part2/ROM.cmp
+C:/Users/conno/Desktop/Lab6_Part2/ROM.qip
+C:/Users/conno/Desktop/Lab6_Part2/ROM.vhd
+C:/Users/conno/Desktop/Lab6_Part2/Waveform.vwf
+C:/Users/conno/Desktop/Lab6_Part2/lab4_cpu.bdf
+C:/Users/conno/Desktop/Lab6_Part2/rom_32k.mif
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 11 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

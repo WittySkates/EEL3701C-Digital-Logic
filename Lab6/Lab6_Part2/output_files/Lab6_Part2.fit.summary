@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Nov 04 19:25:03 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Lab6_Part2
+Top-level Entity Name : Lab6_Part2VHDL
+Family : MAX 10
+Device : 10M02DCU324A6G
+Timing Models : Final
+Total logic elements : 11 / 2,304 ( < 1 % )
+    Total combinational functions : 11 / 2,304 ( < 1 % )
+    Dedicated logic registers : 0 / 2,304 ( 0 % )
+Total registers : 0
+Total pins : 17 / 160 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 0 / 110,592 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 32 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0

@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Quartus/Lab4_ALU/simulation/qsim
+vhard_block
+Z1 !s110 1571743711
+!i10b 1
+!s100 MRPR;fz5@biBW?^?f`VP@1
+II@RfDdSFg7:ERh_J?VSe[3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1571743710
+Z4 8Lab4_ALU.vo
+Z5 FLab4_ALU.vo
+L0 649
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1571743711.000000
+Z8 !s107 Lab4_ALU.vo|
+Z9 !s90 -work|work|Lab4_ALU.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vLab4_ALU
+R1
+!i10b 1
+!s100 U[fdITdR5:n>MDi8CXMe33
+IM5_7GN95e1ZgVK9XT0MUP2
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@lab4_@a@l@u
+vLab4_ALU_vlg_vec_tst
+R1
+!i10b 1
+!s100 NIc_Ai]zT3@4RCf:d`C2h2
+IVX17Pd]ag1WXQGd:IH1<O2
+R2
+R0
+w1571743709
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@lab4_@a@l@u_vlg_vec_tst

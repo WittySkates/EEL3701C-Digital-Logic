@@ -1,0 +1,48 @@
+library ieee; use ieee.std_logic_1164.all;
+entity Lab6_Part2VHDL is port (
+		IR2, IR1, IR0: in std_logic;
+		Q1, Q0: in std_logic;
+		MSA1, MSA0: out std_logic;
+		MSB1, MSB0: out std_logic;
+		MSC2, MSC1, MSC0: out std_logic;
+		IRLD, PCINC, PCLD, D1, D0: OUT std_logic
+);
+end Lab6_Part2VHDL;
+architecture logic OF Lab6_Part2VHDL IS
+begin
+
+D1 <= ((NOT Q1) AND Q0 AND (NOT IR2) AND (NOT IR1) AND IR0)
+	 OR((NOT Q1) AND Q0 AND IR2 AND (NOT IR1) AND IR0);
+
+D0 <= ((NOT Q1) AND (NOT Q0))
+	 OR((NOT Q1) AND Q0 AND IR2 AND (NOT IR1) AND IR0);
+	 
+MSA1 <= ((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND (NOT IR0))
+		OR((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND IR0)
+		OR((NOT Q1) AND Q0 AND IR2 AND (NOT IR1) AND (NOT IR0));
+		
+MSA0 <= (Q1 OR (NOT Q0) OR IR2 OR IR1 OR (NOT IR0))
+	  AND((NOT Q1) OR Q0);
+	  
+MSB1 <= (Q1 OR (NOT Q0) OR IR2 OR IR1 OR IR0);
+
+MSB0 <= ((NOT Q1) AND Q0 AND (NOT IR2) AND (NOT IR1) AND (NOT IR0));
+
+MSC2 <= ((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND (NOT IR0))
+		OR((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND IR0)
+		OR((NOT Q1) AND Q0 AND IR2 AND (NOT IR1) AND (NOT IR0));
+		
+MSC1 <= ((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND (NOT IR0))
+		OR((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND IR0);
+		
+MSC0 <= ((NOT Q1) AND Q0 AND (NOT IR2) AND IR1 AND (NOT IR0))
+		OR((NOT Q1) AND Q0 AND IR2 AND (NOT IR1) AND (NOT IR0));
+		
+IRLD <= ((NOT Q1) AND (NOT Q0));
+
+PCINC <= (Q0 OR Q1)
+	   AND((NOT Q1) OR (NOT Q0));
+
+PCLD <= (Q1 AND Q0);
+
+end logic;

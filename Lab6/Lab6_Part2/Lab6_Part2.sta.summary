@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'inst27'
+Slack : -6.996
+TNS   : -88.903
+
+Type  : Slow 1100mV 85C Model Setup 'MemCLK'
+Slack : -2.810
+TNS   : -13.536
+
+Type  : Slow 1100mV 85C Model Hold 'MemCLK'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'inst27'
+Slack : 1.050
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'MemCLK'
+Slack : -3.166
+TNS   : -29.270
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'inst27'
+Slack : -0.724
+TNS   : -24.959
+
+Type  : Slow 1100mV 0C Model Setup 'inst27'
+Slack : -7.376
+TNS   : -91.822
+
+Type  : Slow 1100mV 0C Model Setup 'MemCLK'
+Slack : -2.601
+TNS   : -11.610
+
+Type  : Slow 1100mV 0C Model Hold 'MemCLK'
+Slack : -0.131
+TNS   : -0.131
+
+Type  : Slow 1100mV 0C Model Hold 'inst27'
+Slack : 1.021
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'MemCLK'
+Slack : -3.166
+TNS   : -29.246
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'inst27'
+Slack : -0.724
+TNS   : -24.713
+
+Type  : Fast 1100mV 85C Model Setup 'inst27'
+Slack : -2.828
+TNS   : -32.438
+
+Type  : Fast 1100mV 85C Model Setup 'MemCLK'
+Slack : -1.632
+TNS   : -7.172
+
+Type  : Fast 1100mV 85C Model Hold 'MemCLK'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'inst27'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'MemCLK'
+Slack : -2.174
+TNS   : -18.855
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'inst27'
+Slack : 0.082
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'inst27'
+Slack : -2.752
+TNS   : -30.177
+
+Type  : Fast 1100mV 0C Model Setup 'MemCLK'
+Slack : -1.344
+TNS   : -5.119
+
+Type  : Fast 1100mV 0C Model Hold 'MemCLK'
+Slack : -0.116
+TNS   : -0.142
+
+Type  : Fast 1100mV 0C Model Hold 'inst27'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'MemCLK'
+Slack : -2.174
+TNS   : -18.872
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'inst27'
+Slack : 0.105
+TNS   : 0.000
+
+------------------------------------------------------------

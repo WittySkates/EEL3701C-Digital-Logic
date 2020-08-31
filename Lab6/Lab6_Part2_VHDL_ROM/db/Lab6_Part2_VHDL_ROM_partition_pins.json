@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "IRLD",
+					"strict" : false
+				},
+				{
+					"name" : "IR2",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "Data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PCINC",
+					"strict" : false
+				},
+				{
+					"name" : "PCLD",
+					"strict" : false
+				},
+				{
+					"name" : "IR1",
+					"strict" : false
+				},
+				{
+					"name" : "IR0",
+					"strict" : false
+				},
+				{
+					"name" : "Q1",
+					"strict" : false
+				},
+				{
+					"name" : "Q0",
+					"strict" : false
+				},
+				{
+					"name" : "COUT",
+					"strict" : false
+				},
+				{
+					"name" : "MSA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MSA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MSB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MSB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MSC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MSC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MSC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "REGA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "REGA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "REGA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "REGA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "REGB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "REGB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "REGB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "REGB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "MemCLK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

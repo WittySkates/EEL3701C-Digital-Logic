@@ -1,0 +1,191 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/conno/Desktop/Lab6_Part2_VHDL_ROM/simulation/qsim
+Ehard_block
+Z1 w1572973945
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 7d5Xo;QBOkc31OfQTzSXV0
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 IfY7Mh2WPBc;@7U@3<I^[0
+R0
+Z8 8Lab6_Part2_VHDL_ROM.vho
+Z9 FLab6_Part2_VHDL_ROM.vho
+l0
+L34
+V8_BbEmGd;OHS6h@;gFc7W3
+!s100 ROH=D<N4CT6aCZ<37A[_?0
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1572973946
+!i10b 1
+Z12 !s108 1572973946.000000
+Z13 !s90 -work|work|Lab6_Part2_VHDL_ROM.vho|
+Z14 !s107 Lab6_Part2_VHDL_ROM.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 8_BbEmGd;OHS6h@;gFc7W3
+l75
+L53
+Vg=W`CQ>24lhYF71zFSkY43
+!s100 zW6ML5NVY?Ai`]`n2XhME3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+vLab6_Part2_VHDL_ROM
+Z17 !s110 1572962649
+!i10b 1
+!s100 cTnJ[@:IP?9UiXhhR3`A?1
+InYJZZkjQI1n2FTSBKU3Wd2
+Z18 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1572962648
+8Lab6_Part2_VHDL_ROM.vo
+FLab6_Part2_VHDL_ROM.vo
+L0 31
+Z19 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z20 !s108 1572962649.000000
+!s107 Lab6_Part2_VHDL_ROM.vo|
+!s90 -work|work|Lab6_Part2_VHDL_ROM.vo|
+!i113 1
+R15
+Z21 tCvgOpt 0
+n@lab6_@part2_@v@h@d@l_@r@o@m
+Elab6_part2_vhdl_rom
+R1
+R3
+R7
+R2
+Z22 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+R4
+R5
+R6
+Z23 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+R0
+R8
+R9
+l0
+L90
+V?@F8H0V?M_AWIlc0HR^o01
+!s100 BMG5oJ<YYVT@W8f_Zlk920
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R3
+R7
+R2
+R22
+R4
+R5
+R6
+R23
+DEx4 work 19 lab6_part2_vhdl_rom 0 22 ?@F8H0V?M_AWIlc0HR^o01
+l347
+L168
+VOZcJc^I4K:0;eO_gELPCP3
+!s100 :EUb;zW@Qmz18ia_URZof2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Elab6_part2_vhdl_rom_vhd_vec_tst
+Z24 w1572973944
+R5
+R6
+R0
+Z25 8Waveform.vwf.vht
+Z26 FWaveform.vwf.vht
+l0
+L31
+Vfzb2[?i`:@4>m5Z`bn17z0
+!s100 n:g_eS]1FkE<80Qg2>hPH0
+R10
+32
+R11
+!i10b 1
+R12
+Z27 !s90 -work|work|Waveform.vwf.vht|
+Z28 !s107 Waveform.vwf.vht|
+!i113 1
+R15
+R16
+Alab6_part2_vhdl_rom_arch
+R5
+R6
+Z29 DEx4 work 31 lab6_part2_vhdl_rom_vhd_vec_tst 0 22 fzb2[?i`:@4>m5Z`bn17z0
+l80
+L33
+Z30 V6?<V`cUXT572I=Ia9fYLB2
+Z31 !s100 KfDLYK;<`=KW_LW^3L8KV2
+R10
+32
+R11
+!i10b 1
+R12
+R27
+R28
+!i113 1
+R15
+R16
+vLab6_Part2_VHDL_ROM_vlg_vec_tst
+R17
+!i10b 1
+!s100 RGzcZjR@=4DgXW_Tl_cJo3
+IJ;OfED23zQ5eo9KM;LjTV0
+R18
+R0
+w1572962647
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R19
+r1
+!s85 0
+31
+R20
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R15
+R21
+n@lab6_@part2_@v@h@d@l_@r@o@m_vlg_vec_tst
